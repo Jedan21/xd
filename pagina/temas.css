@@ -1,0 +1,10 @@
+.imagen{
+    background-image: url(logo.jpeg);
+    height: 550px;
+    width: 550px;
+}
+.logo{  
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
